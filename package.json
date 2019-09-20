@@ -1,0 +1,19 @@
+{
+  "name": "school_news_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^6.6.1",
+    "jsdom": "^15.1.1",
+    "lodash": "^4.17.15",
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.88.0"
+  }
+}
